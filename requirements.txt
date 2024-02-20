@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+schedule
+tensorflow
+matplotlib
+pillow
+numpy
+keras
+pandas
+selenium
